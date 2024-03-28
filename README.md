@@ -1,16 +1,31 @@
-### Hi there 👋
+<div>
+  
+  <h1 align="center">
+    Olá! Eu sou
+    <a href="https://www.cin.ufpe.br/~wpb/">Weldon</a>
+  </h1>
+  
+<h3 style="text-align: center; font-size: 26; line-height: 1.6; font-weight: bold;">
+  Tenho 18 anos e estou no terceiro período do curso de Sistemas de Informação no Centro de Informática da UFPE. <br>
+  <h1>Hobbies</h1>
+  • 🌌 Astronomia <br>
+  • 📚 Leitura <br>
+  • ⚽️ Futebol <br>
+  • 🎬 Filmes
+</h3>
 
-<!--
-**WeldonPereira/WELDONPEREIRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <h1>Habilidades (ainda em evolução)</h1>
+  <p style="font-size: 24; font-weight: bold;"></p>
+  <img alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="Bootstrap" height="40" width="50" src="https://ww1.freelogovectors.net/wp-content/uploads/2022/10/bootstrap-logo-freelogovectors.net_.png?lossy=1&ssl=1">
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <h1>Ferramentas</h1>
+    <img alt="Git" height="40" width="50" src="https://camo.githubusercontent.com/38827655e1ae0e1518d635ad89e8aa46b7f977c795952245c36a2d58064f1803/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667">
+    <img alt="Git" height="40" width="50" src="https://camo.githubusercontent.com/25d07ba4220a3fcadb4af12394d157494ec298dec4ecd86321961427ea18c9e8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667">
+</div>
