@@ -1,7 +1,7 @@
 <div align="left" style="font-size: 21px;">
   <h1>👋 Olá! Eu sou Weldon Pereira</h1>
   <p>Tenho 19 anos e estou no 4º período do curso de Sistemas de Informação no Centro de Informática da UFPE.</p>
-  <p>💡 Onde aprendi e participei de projetos inovadores, aprimorando minhas habilidades em desenvolvimento e tecnologia.</p>
+  <p>💡 Onde estou aprendendo e participando de projetos inovadores, aprimorando minhas habilidades em desenvolvimento e tecnologia.</p>
 </div>
 
 <hr>
