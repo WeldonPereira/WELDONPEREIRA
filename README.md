@@ -1,35 +1,47 @@
-<div>
-  
-  <h1 align="center">
-    Olá! Eu sou
-    <a href="https://www.cin.ufpe.br/~wpb/">Weldon</a>
-    
-<h3 style="text-align: center; font-size: 26; line-height: 1.6; font-weight: bold;">
-  <h1> 🚶Sobre mim </h1>
-  Tenho 18 anos e estou no terceiro período do curso de Sistemas de Informação no Centro de Informática da UFPE. <br>
-  <h1>🍃Hobbies</h1>
-  • 🌌 Astronomia <br>
-  • 📚 Leitura <br>
-  • ⚽️ Futebol <br>
-  • 🎬 Filmes
-</h3>
-
-<div>
-  <img alt="gift" height="250" width="350" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+<div align="left" style="font-size: 21px;">
+  <h1>👋 Olá! Eu sou Weldon Pereira</h1>
+  <p>Tenho 19 anos e estou no 4º período do curso de Sistemas de Informação no Centro de Informática da UFPE.</p>
+  <p>💡 Onde aprendi e participei de projetos inovadores, aprimorando minhas habilidades em desenvolvimento e tecnologia.</p>
 </div>
 
-<div>
-  <h1>💻Habilidades (ainda em evolução)</h1>
-  <p style="font-size: 24; font-weight: bold;"></p>
-  <img alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Bootstrap" height="40" width="50" src="https://ww1.freelogovectors.net/wp-content/uploads/2022/10/bootstrap-logo-freelogovectors.net_.png?lossy=1&ssl=1">
+<hr>
+
+<div align="left">
+  <p>📊 Minhas estatísticas no GitHub:</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=WELDONPEREIRA&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=pt-br&hide_border=false&order=1" height="150" alt="Gráfico de estatísticas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WELDONPEREIRA&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="Gráfico de linguagens" />
 </div>
 
-<div>
-    <h1>🔧Ferramentas</h1>
-    <img alt="Git" height="40" width="50" src="https://camo.githubusercontent.com/38827655e1ae0e1518d635ad89e8aa46b7f977c795952245c36a2d58064f1803/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667">
-    <img alt="Git" height="40" width="50" src="https://camo.githubusercontent.com/25d07ba4220a3fcadb4af12394d157494ec298dec4ecd86321961427ea18c9e8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667">
+###
+
+<div align="left">
+  <p>💻 Tecnologias que eu uso:</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="Logo HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="Logo CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="Logo JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="Logo TypeScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="Logo React" />
 </div>
+
+###
+
+<div align="left">
+  <p>🛠️ Ferramentas que utilizo:</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Logo Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="Logo GitHub" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Logo Figma" />
+</div>
+
+###
+<div align="left">
+  <p>📈 Meu gráfico de atividades:</p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WELDONPEREIRA&radius=16&theme=react&area=true&order=5" height="300" alt="Gráfico de atividades" />
+</div>
+
+###
