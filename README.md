@@ -15,7 +15,7 @@ Tecnologias que domino e com as quais trabalho frequentemente:
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 
-### 📦 Frameworks & Bibliotecasc
+### 📦 Frameworks & Bibliotecas
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
