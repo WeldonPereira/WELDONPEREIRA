@@ -47,8 +47,6 @@ Tecnologias que domino e com as quais trabalho frequentemente:
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge\&logo=sqlite\&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge\&logo=microsoft%20sql%20server\&logoColor=white)
 
----
-
 ## 📊 Minhas estatísticas
 
 <div align="left">
@@ -60,8 +58,6 @@ Tecnologias que domino e com as quais trabalho frequentemente:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeldonPereira\&theme=dark\&hide_border=false\&layout=compact)
 
 </div>
-
----
 
 ## 🐍 Contribuições
 
