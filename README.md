@@ -59,7 +59,7 @@ Tecnologias que domino e com as quais trabalho frequentemente:
 
 </div>
 
-## 🐍 Contribuições
+## Minhas Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WELDONPEREIRA/WELDONPEREIRA/output/github-contribution-grid-snake-dark.svg" />
