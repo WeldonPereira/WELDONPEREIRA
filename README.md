@@ -50,9 +50,6 @@ Tecnologias que domino e com as quais trabalho frequentemente:
 ## 📊 Minhas estatísticas
 
 <div align="left">
-
-![Weldon GitHub Stats](https://github-readme-stats.vercel.app/api?username=WeldonPereira\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false)
-
 ![Weldon GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=WeldonPereira\&theme=dark\&hide_border=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeldonPereira\&theme=dark\&hide_border=false\&layout=compact)
