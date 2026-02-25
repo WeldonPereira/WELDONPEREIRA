@@ -1,9 +1,6 @@
 ## 👋 Olá!
 
-Sou desenvolvedor Front-end com foco na criação de interfaces modernas, acessíveis e responsivas.  
-Gosto de transformar ideias em experiências digitais utilizando tecnologias web atuais.  
-Tenho experiência com **React**, **TypeScript**, **Tailwind** e diversas outras ferramentas do ecossistema JavaScript.  
-Também busco sempre aprender algo novo e aprimorar minhas habilidades com projetos práticos.
+Estudante de Sistemas de Informação na UFPE (7º período) e desenvolvedor Full Stack. Atuo na intersecção entre o design de interfaces modernas e a construção de arquiteturas escaláveis. Com foco na stack JavaScript (Node.js, React, MongoDB), desenvolvo soluções completas — do protótipo ao deploy. Unindo a base acadêmica de uma das melhores universidades do país à prática de projetos reais, busco criar experiências digitais que sejam tecnicamente robustas e focadas no usuário.
 
 ## 💼 Tech Stack
 
